@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<question qid="1">
+    <answers>
+        <aid>101</aid>
+        <aname>ws is a technology</aname>
+        <author>Oracle</author>
+    </answers>
+    <answers>
+        <aid>102</aid>
+        <aname>ws is exposes an behavoiur of browser</aname>
+        <author>SUN</author>
+    </answers>
+    <answers>
+        <aid>103</aid>
+        <aname>RESTful ws are Architectural style</aname>
+        <author>jboos</author>
+    </answers>
+    <qname>what is webservice?</qname>
+</question>
