@@ -37,6 +37,10 @@ public class Sample {
 		Sample.display();
 		Sample sample = new Sample();
 		sample.show();
+		
+		{
+			System.out.println("This instance block2......!");
+		}
 
 	}
 
