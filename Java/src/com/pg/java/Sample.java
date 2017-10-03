@@ -10,6 +10,10 @@ public class Sample {
 		System.out.println("This is Para Constructor........!");
 	}
 
+	public Sample(int a, int b) {
+		System.out.println("This is Two  Para Constructor........!");
+	}
+
 	public static void display() {
 		System.out.println("This is static display Method...........!!!!!");
 	}
@@ -17,12 +21,12 @@ public class Sample {
 	public void show() {
 		System.out.println("This is nos-static method..........!");
 	}
-	
+
 	{
 		System.out.println("instace block.....@@@@@@");
 	}
-	
-	static{
+
+	static {
 		System.out.println("static block.....@@@@@@");
 	}
 
