@@ -1,6 +1,8 @@
 package com.pg.java;
 
 public class Sample {
+	int a = 9;
+	static int b = 10;
 
 	public Sample() {
 		System.out.println("This is Default constructor........!");
